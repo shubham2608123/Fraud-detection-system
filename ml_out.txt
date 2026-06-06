@@ -1,0 +1,18 @@
+Models loaded. Features: 100, Threshold: 0.722
+INFO:     127.0.0.1:57834 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55651 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49991 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53593 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53884 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59690 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61386 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49961 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52212 - "POST /predict HTTP/1.1" 200 OK
+INFO:     192.168.0.103:60809 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.168.0.103:60828 - "GET /loginMsg.js HTTP/1.1" 404 Not Found
+INFO:     192.168.0.103:60829 - "GET /cgi/get.cgi?cmd=home_login HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58089 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54694 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63393 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54315 - "POST /predict HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52221 - "GET /health HTTP/1.1" 200 OK

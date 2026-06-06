@@ -1,0 +1,2 @@
+Connected to MongoDB Atlas
+FraudShield Backend running on port 5000
